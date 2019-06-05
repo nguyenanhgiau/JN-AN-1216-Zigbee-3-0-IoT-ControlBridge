@@ -1,0 +1,24 @@
+Wed May 29 09:27:14 2019
+   text	   data	    bss	    dec	    hex	filename
+ 226291	   2016	  29849	 258156	  3f06c	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
+Tue Jun 04 15:14:38 2019
+   text	   data	    bss	    dec	    hex	filename
+ 226291	   2016	  29849	 258156	  3f06c	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
+Tue Jun 04 15:53:06 2019
+   text	   data	    bss	    dec	    hex	filename
+ 226263	   2016	  29849	 258128	  3f050	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
+Tue Jun 04 16:49:07 2019
+   text	   data	    bss	    dec	    hex	filename
+ 225879	   2024	  29849	 257752	  3eed8	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
+Tue Jun 04 17:06:49 2019
+   text	   data	    bss	    dec	    hex	filename
+ 225791	   2024	  29849	 257664	  3ee80	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
+Tue Jun 04 17:50:46 2019
+   text	   data	    bss	    dec	    hex	filename
+ 225791	   2024	  29849	 257664	  3ee80	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
+Tue Jun 04 18:04:10 2019
+   text	   data	    bss	    dec	    hex	filename
+ 225791	   2024	  29849	 257664	  3ee80	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
+Tue Jun 04 18:15:24 2019
+   text	   data	    bss	    dec	    hex	filename
+ 225807	   2024	  29849	 257680	  3ee90	ZigbeeNodeControlBridge_JN5169_GP_Proxy_FULL_FUNC_DEVICE_115200.elf
